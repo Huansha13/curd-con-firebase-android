@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185786370166",
+    "project_id": "app-semana-11",
+    "storage_bucket": "app-semana-11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185786370166:android:aebc3884676ca31bca3757",
+        "android_client_info": {
+          "package_name": "xyz.android.app_firebase_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMMoBzYG1E-dIY58cK9Z4up5H2rrdsGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
